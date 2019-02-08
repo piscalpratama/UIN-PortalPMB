@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<title>PORTAL PMB 2019</title>
+	<link rel="shortcut icon" href="<?=base_url('assets/images/logo.png')?>" />
     <!-- Metro 4 -->
 	<link rel="stylesheet" href="https://cdn.metroui.org.ua/v4/css/metro-all.min.css">
 	
