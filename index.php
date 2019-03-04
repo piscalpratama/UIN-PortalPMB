@@ -33,44 +33,36 @@
 							<div class="slide-front">
 								<span class="mif-settings-ethernet icon"></span>
 							</div>
-							<div class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
-								<p class="text-center">
-									<a href="https://pmb-admin.uinsgd.ac.id/Development" class="button light large drop-shadow">Buka</a>
-								</p>
-							</div>
+							<a href="https://pmb-admin.uinsgd.ac.id/Development" class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
+							
+							</a>
 							<span class="branding-bar fg-white">Development</span>
 						</div>
 						<div data-role="tile" data-size="wide" data-effect="hover-slide-up" class="bg-blue">
 							<div class="slide-front">
 								<span class="mif-school icon"></span>
 							</div>
-							<div class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
-								<p class="text-center">
-									<a href="https://pmb-admin.uinsgd.ac.id/Akademik" class="button light drop-shadow">Buka</a>
-								</p>
-							</div>
+							<a href="https://pmb-admin.uinsgd.ac.id/Akademik" class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
+							
+							</a>
 							<span class="branding-bar fg-white">Akademik</span>
 						</div>
 						<div data-role="tile" data-size="medium" data-effect="hover-slide-left" class="bg-red">
 							<div class="slide-front">
 								<span class="mif-suitcase icon"></span>
 							</div>
-							<div class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
-								<p class="text-center">
-									<a href="https://pmb-admin.uinsgd.ac.id/Eksekutif" class="button light drop-shadow">Buka</a>
-								</p>
-							</div>
+							<a href="https://pmb-admin.uinsgd.ac.id/Eksekutif" class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
+							
+							</a>
 							<span class="branding-bar fg-white">Eksekutif</span>
 						</div>
 						<div data-role="tile" data-size="medium" data-effect="hover-slide-right" class="bg-orange">
 							<div class="slide-front">
 							<span class="mif-dollar icon"></span>
 							</div>
-							<div class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
-								<p class="text-center">
-									<a href="https://pmb-admin.uinsgd.ac.id/Keuangan" class="button light drop-shadow">Buka</a>
-								</p>
-							</div>
+							<a href="https://pmb-admin.uinsgd.ac.id/Keuangan" class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
+							
+							</a>
 							<span class="branding-bar fg-white">Keuangan</span>
 						</div>
 					</div>
