@@ -25,7 +25,7 @@
 			</div>
 			<div class="row" style="margin-top:9%; margin-left:30px;">
 				<div class="cell-md-4 cell-sm-12 flex-justify-start">
-				<h1 class="fg-white">PORTAL PMB 2019</h1>
+				<h1 class="fg-white">PORTAL PMB</h1>
 				</div>
 				<div class="cell-md-6 cell-sm-12 flex-justify-center">
 					<div class="tiles-grid tiles-group size-md-4">
@@ -36,18 +36,9 @@
 							<a href="https://pmb-admin.uinsgd.ac.id/Development" class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
 								<span class="mif-settings-ethernet icon" style="color:white"></span>
 							</a>
-							<span class="branding-bar fg-white">Development</span>
+							<span class="branding-bar fg-white">Sarjana</span>
 						</div>
-						<div data-role="tile" data-size="medium" data-effect="hover-slide-up" class="bg-violet">
-							<div class="slide-front">
-								<span class="mif-school icon"></span>
-							</div>
-							<a href="#https://pmb-admin.uinsgd.ac.id/Akademik" class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
-								<span class="mif-school icon" style="color:white"></span>
-							</a>
-							<span class="branding-bar fg-white">Akademik</span>
-						</div>
-						<div data-role="tile" data-size="medium" data-effect="hover-slide-up" class="bg-blue">
+						<div data-role="tile" data-size="large" data-effect="hover-slide-up" class="bg-blue">
 							<div class="slide-front">
 								<span class="mif-library icon"></span>
 							</div>
@@ -55,24 +46,6 @@
 								<span class="mif-library icon" style="color:white"></span>
 							</a>
 							<span class="branding-bar fg-white">Pascasarjana</span>
-						</div>
-						<div data-role="tile" data-size="medium" data-effect="hover-slide-left" class="bg-green">
-							<div class="slide-front">
-								<span class="mif-suitcase icon"></span>
-							</div>
-							<a href="#https://pmb-admin.uinsgd.ac.id/Eksekutif" class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
-								<span class="mif-suitcase icon" style="color:white"></span>
-							</a>
-							<span class="branding-bar fg-white">Eksekutif</span>
-						</div>
-						<div data-role="tile" data-size="medium" data-effect="hover-slide-right" class="bg-yellow">
-							<div class="slide-front">
-							<span class="mif-dollar icon"></span>
-							</div>
-							<a href="#https://pmb-admin.uinsgd.ac.id/Keuangan" class="slide-back d-flex flex-justify-center flex-align-center p-4 op-mauve">
-								<span class="mif-dollar icon" style="color:white"></span>
-							</a>
-							<span class="branding-bar fg-white">Keuangan</span>
 						</div>
 					</div>
 				</div>
